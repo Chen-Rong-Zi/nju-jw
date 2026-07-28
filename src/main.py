@@ -313,8 +313,10 @@ def update_readme(all_items: list[dict]):
         rows += f'| {item["time"]} | [{item["title"]}]({item["url"]}) | {tags_display} | {summary} |\n'
 
     history_rows = ''
-    for item in all_items[10:]:
+    for item in all_items[10:30]:  # at most 20 items in history
         history_rows += f'| {item["time"]} | [{item["title"]}]({item["url"]}) |\n'
+    if len(all_items) > 30:
+        history_rows += f'| ... | 共 {total} 条，仅显示最近 20 条 |\n'
 
     readme = f'''# 南京大学教务处通知公告
 

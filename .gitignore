@@ -3,4 +3,5 @@ __pycache__/
 .venv/
 .env
 email_content.html
+.playwright-mcp/*.swp
 .playwright-mcp/
