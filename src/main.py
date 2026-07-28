@@ -108,6 +108,15 @@ def read_all_csv_items() -> list[dict]:
             if len(row) >= 4:
                 tags = eval(row[0]) if row[0].startswith('[') else [row[0]]
                 url = row[3]
+                # Normalize old URL format: /ggtz/list1.htm/d1/7c/... → /d1/7c/...
+                # Also handle malformed: /ggtz/list1.htmhttps://xgb.nju.edu.cn/...
+                m = re.match(r'^(https?://[^/]+)/ggtz/list1\.htm(.+)$', url)
+                if m:
+                    suffix = m.group(2)
+                    if suffix.startswith('http://') or suffix.startswith('https://'):
+                        url = suffix  # external URL, use as-is
+                    else:
+                        url = m.group(1) + suffix  # strip /ggtz/list1.htm
                 items.append({
                     'tags': tags,
                     'title': row[1],
