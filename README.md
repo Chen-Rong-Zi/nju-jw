@@ -1,0 +1,377 @@
+# 南京大学教务处通知公告
+
+> 每日自动抓取，更新于 2026-07-28 15:35
+
+## 📢 最新通知
+
+| 时间 | 标题 | 标签 | 摘要 |
+|------|------|------|------|
+| 2026-07-28 | [关于公示2026年江苏省高等教育学会专项课题立项申报工作拟推荐名单的通知](https://jw.nju.edu.cn/d3/2d/c26263a840493/page.htm) | — | 各学院、各单位：根据《关于开展2026年江苏省高等教育学会专项课题（第二批次）推荐申报工作的通知》（... |
+| 2026-07-26 | [关于公示2026年度南京大学本科国际化课程立项名单的通知](https://jw.nju.edu.cn/d2/c4/c26263a840388/page.htm) | — | 各院系、各单位：根据《关于开展2026年度南京大学本科国际化课程申报工作的通知》（南本院〔2026〕... |
+| 2026-07-23 | [2026年度南京大学优秀本科毕业论文（设计） 评选结果公示](https://jw.nju.edu.cn/ggtz/list1.htm/d1/7c/c26263a840060/page.htm) | 信息 |  |
+| 2026-07-21 | [2026年度国家自然科学基金青年学生基础研究项目（本科生）学校拟推荐项目公示](https://jw.nju.edu.cn/ggtz/list1.htm/d1/09/c26263a839945/page.htm) | 信息 |  |
+| 2026-07-17 | [关于开展第五届教育部“提问与猜想”活动申报推荐工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/cf/24/c26263a839460/page.htm) | 信息 |  |
+| 2026-07-16 | [暑期新增通识课选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/ce/b6/c26263a839350/page.htm) | 信息 |  |
+| 2026-07-13 | [奔赴计划—"退役新能源器件中含碳组分热转化与催化提质"项目招募通知](https://jw.nju.edu.cn/ggtz/list1.htm/cd/c6/c26263a839110/page.htm) | 信息 |  |
+| 2026-07-13 | [【学生】20252学期期末缓考申请通过名单公示（第四批）](https://jw.nju.edu.cn/ggtz/list1.htm/cd/8a/c26263a839050/page.htm) | 考试 |  |
+| 2026-07-10 | [南京大学2026-2027学年第一学期本科生课程表](https://jw.nju.edu.cn/ggtz/list1.htm/cd/51/c26263a838993/page.htm) | 信息 |  |
+| 2026-07-09 | [成绩更正审核结果公示（2026-07-09）](https://jw.nju.edu.cn/ggtz/list1.htm/cc/d4/c26263a838868/page.htm) | 信息 |  |
+
+
+<details>
+<summary>📜 历史通知（共 356 条）</summary>
+
+| 时间 | 标题 |
+|------|------|
+| 2026-07-08 | [本科生院2026年暑假值班表](https://jw.nju.edu.cn/ggtz/list1.htm/cc/5d/c26263a838749/page.htm) |
+| 2026-07-06 | [成绩更正审核结果公示（2026-07-06）](https://jw.nju.edu.cn/ggtz/list1.htm/cb/ce/c26263a838606/page.htm) |
+| 2026-07-06 | [【学生】20252学期期末缓考申请通过名单公示（第三批）](https://jw.nju.edu.cn/ggtz/list1.htm/cb/9c/c26263a838556/page.htm) |
+| 2026-07-03 | [【转发】关于暑假期间公共教室开放情况的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ca/e3/c26263a838371/page.htm) |
+| 2026-07-03 | [【跨学院准入】南京大学2026年度跨大类（学院）专业准入录取名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/ca/af/c26263a838319/page.htm) |
+| 2026-07-03 | [【分流】南京大学2025级普通全日制大类本科生学科、专业准入名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/ca/b5/c26263a838325/page.htm) |
+| 2026-06-29 | [关于公示2026年度南京大学本科生“奔赴计划”研修项目立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/c9/cc/c26263a838092/page.htm) |
+| 2026-06-27 | [关于组织申报 2026 长三角研究型大学联盟联合汽车电子 USP 创新训练营的通知](https://jw.nju.edu.cn/ggtz/list1.htm/c8/16/c26263a837654/page.htm) |
+| 2026-06-26 | [第一批微专业数智资源建设项目公示](https://jw.nju.edu.cn/ggtz/list1.htm/c7/bb/c26263a837563/page.htm) |
+| 2026-06-26 | [关于公布2026年数学建模竞赛培训名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/c7/ac/c26263a837548/page.htm) |
+| 2026-06-25 | [成绩更正审核结果公示（2026-06-25）](https://jw.nju.edu.cn/ggtz/list1.htm/c7/7b/c26263a837499/page.htm) |
+| 2026-06-24 | [【学生】20252学期期末缓考申请通过名单公示（第一批）](https://jw.nju.edu.cn/ggtz/list1.htm/c6/67/c26263a837223/page.htm) |
+| 2026-06-18 | [关于评选2026年度南京大学优秀本科毕业论文（设计）的通知](https://jw.nju.edu.cn/ggtz/list1.htm/c3/70/c26263a836464/page.htm) |
+| 2026-06-18 | [2026年南京大学“本科实验教学质量提升计划”入选项目名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/c3/da/c26263a836570/page.htm) |
+| 2026-06-17 | [南京大学2026年本科生毕业典礼暨学位授予仪式座位安排及仪式须知](https://jw.nju.edu.cn/ggtz/list1.htmhttps://xgb.nju.edu.cn/c3/28/c62106a836392/page.htm) |
+| 2026-06-16 | [成绩更正审核结果公示（2026-06-16）](https://jw.nju.edu.cn/ggtz/list1.htm/c2/48/c26263a836168/page.htm) |
+| 2026-06-16 | [仙林校区通宵自习教室开放通知](https://jw.nju.edu.cn/ggtz/list1.htm/3d/7c/c26263a802172/page.htm) |
+| 2026-06-12 | [期末复习备考心理健康小贴士](https://jw.nju.edu.cn/ggtz/list1.htm/c1/0d/c26263a835853/page.htm) |
+| 2026-06-12 | [关于公示2026年度南京大学“智慧本科教育工程”系列项目立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/c1/04/c26263a835844/page.htm) |
+| 2026-06-12 | [【学生】本科期末教学重要事项通知 （2025-2026学年第二学期）](https://jw.nju.edu.cn/ggtz/list1.htm/c1/09/c26263a835849/page.htm) |
+| 2026-06-12 | [【学生】全国大学英语四、六级考试考前温馨提示](https://jw.nju.edu.cn/ggtz/list1.htm/c1/2a/c26263a835882/page.htm) |
+| 2026-06-12 | [2026年暑期学校和秋季学期本科课程选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/c1/29/c26263a835881/page.htm) |
+| 2026-06-12 | [2025-2026学年第二学期期末考试温馨提示](https://jw.nju.edu.cn/ggtz/list1.htm/c1/0c/c26263a835852/page.htm) |
+| 2026-06-08 | [6月13日考试封闭、清理教室的通知](https://jw.nju.edu.cn/ggtz/list1.htm/bd/f3/c26263a835059/page.htm) |
+| 2026-06-05 | [【转发】关于《毛泽东思想和中国特色社会主义理论体系概论》 《习近平新时代中国特色社会主义思想概论》 实践教学的要求与说明](https://jw.nju.edu.cn/ggtz/list1.htm/bd/82/c26263a834946/page.htm) |
+| 2026-06-05 | [【学生】全国大学英语四、六级考试准考证打印通知](https://jw.nju.edu.cn/ggtz/list1.htm/bd/9d/c26263a834973/page.htm) |
+| 2026-06-04 | [关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/bc/dc/c26263a834780/page.htm) |
+| 2026-06-04 | [关于2026届普通全日制本科毕业生申请学士学位的通知](https://jw.nju.edu.cn/ggtz/list1.htm/bd/07/c26263a834823/page.htm) |
+| 2026-06-03 | [第二届南京大学“歆·恺杯”数学竞赛获奖名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/bc/77/c26263a834679/page.htm) |
+| 2026-06-03 | [2026届本科生毕业论文（设计）上传和装订指南](https://jw.nju.edu.cn/ggtz/list1.htm/87/ce/c26263a690126/page.htm) |
+| 2026-06-02 | [南京大学关于2026年度江苏高校品牌专业建设工程二期项目验收的公示](https://jw.nju.edu.cn/ggtz/list1.htm/bc/8f/c26263a834703/page.htm) |
+| 2026-05-29 | [关于组织2026年数学建模竞赛培训的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ba/9a/c26263a834202/page.htm) |
+| 2026-05-29 | [2026年“高教社杯”大学生“用外语讲好中国故事”优秀短视频作品征集活动南京大学校赛获奖通知](https://jw.nju.edu.cn/ggtz/list1.htm/ba/9e/c26263a834206/page.htm) |
+| 2026-05-22 | [【学生】关于6月份全国大学英语四六级考试耳机试音及修理的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b7/d4/c26263a833492/page.htm) |
+| 2026-05-20 | [2026年6月5日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/b6/94/c26263a833172/page.htm) |
+| 2026-05-19 | [关于中国国际大学生创新大赛（2026） 南京大学校赛报名时间延期的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b6/59/c26263a833113/page.htm) |
+| 2026-05-19 | [2026届普通全日制本科毕业证书、学士学位证书审核发放流程](https://jw.nju.edu.cn/ggtz/list1.htm/b6/19/c26263a833049/page.htm) |
+| 2026-05-18 | [关于加强2026年本科毕业论文（设计）管理工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b5/d2/c26263a832978/page.htm) |
+| 2026-05-14 | [【C9交换】西安交通大学2026年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/b4/64/c26263a832612/page.htm) |
+| 2026-05-10 | [中国国际大学生创新大赛（2026）南京大学校赛通知](https://jw.nju.edu.cn/ggtz/list1.htm/b2/92/c26263a832146/page.htm) |
+| 2026-05-08 | [【补采】2027届普通全日制本科毕业生图像采集春季学期补采通知](https://jw.nju.edu.cn/ggtz/list1.htm/b1/f1/c26263a831985/page.htm) |
+| 2026-05-07 | [2026年5月20日、5月22日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/b1/68/c26263a831848/page.htm) |
+| 2026-05-06 | [关于组织参加教育部高等教育司2026年人工智能综合能力提升培训的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b1/37/c26263a831799/page.htm) |
+| 2026-05-06 | [关于招募南京大学2026年中英集成电路与先进制造本科生科考与科研训练项目成员的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b0/f3/c26263a831731/page.htm) |
+| 2026-05-06 | [【C9交换】哈尔滨工业大学2026年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/b1/0a/c26263a831754/page.htm) |
+| 2026-05-06 | [【C9交换】北京大学2026年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/b1/09/c26263a831753/page.htm) |
+| 2026-05-06 | [【C9交换】2026年西安交通大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/b1/22/c26263a831778/page.htm) |
+| 2026-04-27 | [【C9交换】2026年哈尔滨工业大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/ae/f4/c26263a831220/page.htm) |
+| 2026-04-27 | [【C9交换】2026年北京大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/ae/b5/c26263a831157/page.htm) |
+| 2026-04-27 | [ 【转发】“五一”劳动节期间鼓楼、仙林、苏州  各校区教室开放公告](https://jw.nju.edu.cn/ggtz/list1.htm/8b/83/c26263a756611/page.htm) |
+| 2026-04-24 | [从工业4.0到“智改数转”：南京大学新工科协同育人-中德荷本科生全球科考项目招募通知](https://jw.nju.edu.cn/ggtz/list1.htm/ad/e5/c26263a830949/page.htm) |
+| 2026-04-21 | [关于公示南京大学第六批课程思政案例名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ad/09/c26263a830729/page.htm) |
+| 2026-04-17 | [关于组织2026年度暑期学校教学活动的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ab/cf/c26263a830415/page.htm) |
+| 2026-04-17 | [关于做好2027届普通全日制本科毕业生图像信息采集工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ab/e4/c26263a830436/page.htm) |
+| 2026-04-16 | [【学生】关于举办第二届南京大学“歆·恺杯”数学竞赛的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ab/0d/c26263a830221/page.htm) |
+| 2026-04-16 | [【分流、专业准入】2026年学科、专业准入志愿填报通知](https://jw.nju.edu.cn/ggtz/list1.htm/ab/4b/c26263a830283/page.htm) |
+| 2026-04-15 | [关于开展2026届本科毕业论文（设计）中期检查工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/aa/c7/c26263a830151/page.htm) |
+| 2026-04-15 | [【期中考试】2025-2026学年第二学期数学期中考试安排](https://jw.nju.edu.cn/ggtz/list1.htm/aa/cb/c26263a830155/page.htm) |
+| 2026-04-15 | [【C9交换】复旦大学2026年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/aa/ac/c26263a830124/page.htm) |
+| 2026-04-14 | [2026年5月南京大学普通全日制本科生学位英语考试通知](https://jw.nju.edu.cn/ggtz/list1.htm/aa/17/c26263a829975/page.htm) |
+| 2026-04-09 | [【分流】南京大学2026年普通全日制本科生学科、专业准入工作通知](https://jw.nju.edu.cn/ggtz/list1.htm/a8/5e/c26263a829534/page.htm) |
+| 2026-04-09 | [【C9交换】上海交通大学2026年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a8/67/c26263a829543/page.htm) |
+| 2026-04-09 | [【C9交换】上海交通大学2026年暑期学校入选  名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a8/67/c26263a829543/page.htm) |
+| 2026-04-07 | [成绩更正审核结果公示（2026-04-07）](https://jw.nju.edu.cn/ggtz/list1.htm/a7/b8/c26263a829368/page.htm) |
+| 2026-04-02 | [【C9交换】2026年复旦大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/a6/55/c26263a829013/page.htm) |
+| 2026-04-02 | [2026年“高教社杯”大学生“用外语讲好中国故事”优秀短视频作品征集活动](https://jw.nju.edu.cn/ggtz/list1.htm/a6/5d/c26263a829021/page.htm) |
+| 2026-04-01 | [【毕业班】悦读测试通知（2022级及以前缺悦读学分的学生参加）](https://jw.nju.edu.cn/ggtz/list1.htm/a6/05/c26263a828933/page.htm) |
+| 2026-04-01 | [2026年4月24日、5月8日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/a5/f9/c26263a828921/page.htm) |
+| 2026-03-31 | [【C9交换】2026年上海交通大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/a5/a9/c26263a828841/page.htm) |
+| 2026-03-30 | [关于启动2026年学科、专业介绍工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a5/2b/c26263a828715/page.htm) |
+| 2026-03-30 | [2026年南京大学本科生全球科考与科研训练项目拟立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a4/f3/c26263a828659/page.htm) |
+| 2026-03-23 | [新增通识课选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/9f/7c/c26263a827260/page.htm) |
+| 2026-03-23 | [关于2025年度“南雍教学名师”“南雍青年教学名师”拟入选人员的公示](https://jw.nju.edu.cn/ggtz/list1.htm/9f/4d/c26263a827213/page.htm) |
+| 2026-03-23 | [【学生】2026年6月四、六级考试报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/9f/1d/c26263a827165/page.htm) |
+| 2026-03-20 | [成绩更正审核结果公示（2026-03-20）](https://jw.nju.edu.cn/ggtz/list1.htm/9f/2a/c26263a827178/page.htm) |
+| 2026-03-19 | [【学生】20252学期重修课程的缴费通知](https://jw.nju.edu.cn/ggtz/list1.htm/9e/6f/c26263a826991/page.htm) |
+| 2026-03-18 | [2026年4月10日、4月19日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/9e/20/c26263a826912/page.htm) |
+| 2026-03-16 | [部分课程增加名额的通知（三）](https://jw.nju.edu.cn/ggtz/list1.htm/9d/95/c26263a826773/page.htm) |
+| 2026-03-16 | [2026年春季学期“悦读经典计划”导读班课程群信息](https://jw.nju.edu.cn/ggtz/list1.htm/9e/54/c26263a826964/page.htm) |
+| 2026-03-12 | [关于开展 2026年春季学期本科生 “一二课堂融通”课程学分认定工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/9c/17/c26263a826391/page.htm) |
+| 2026-03-11 | [部分课程增加名额的通知（二）](https://jw.nju.edu.cn/ggtz/list1.htm/9b/9e/c26263a826270/page.htm) |
+| 2026-03-11 | [【毕业班】关于2026届本科毕业生专业准出申请的通知](https://jw.nju.edu.cn/ggtz/list1.htm/9b/a2/c26263a826274/page.htm) |
+| 2026-03-10 | [关于公示2026年度第一批南京大学通识类教改课程立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/9a/52/c26263a825938/page.htm) |
+| 2026-03-10 | [【学生】2026年上半年四六级考试相关通知汇总](https://jw.nju.edu.cn/ggtz/list1.htm/99/a9/c26263a825769/page.htm) |
+| 2026-03-10 | [【名师邀约课程】从世界看中国：丝绸之路史研究](https://jw.nju.edu.cn/ggtz/list1.htm/9a/1a/c26263a825882/page.htm) |
+| 2026-03-06 | [2026年南京大学劳动教育特色实践项目拟立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/90/40/c26263a823360/page.htm) |
+| 2026-03-06 | [2025-2026学年第二学期公共课补缓考安排](https://jw.nju.edu.cn/ggtz/list1.htm/91/22/c26263a823586/page.htm) |
+| 2026-03-05 | [关于2026年春季学期DIY研读研究课程报名的通知](https://jw.nju.edu.cn/ggtz/list1.htm/8f/a6/c26263a823206/page.htm) |
+| 2026-03-05 | [2026年3月20日普通话水平测试网络报名通知及本学期测试计划安排](https://jw.nju.edu.cn/ggtz/list1.htm/8f/15/c26263a823061/page.htm) |
+| 2026-03-04 | [部分课程增加名额的通知（含通识课和思政选择性必修课）](https://jw.nju.edu.cn/ggtz/list1.htm/8d/61/c26263a822625/page.htm) |
+| 2026-03-04 | [【转发】网络通识课《认识地球》和《自然灾害与人》开课通知](https://jw.nju.edu.cn/ggtz/list1.htm/8d/4a/c26263a822602/page.htm) |
+| 2026-03-03 | [《人工智能+产品：创意、设计与开发实践》旁听通知](https://jw.nju.edu.cn/ggtz/list1.htm/88/ec/c26263a821484/page.htm) |
+| 2026-03-02 | [【学生】20251学期期末缓考申请通过名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/87/05/c26263a820997/page.htm) |
+| 2026-02-28 | [【22-25级劳育慕课重修同学关注】2026年春季学期《大学生劳动教育》慕课选修说明](https://jw.nju.edu.cn/ggtz/list1.htm/84/46/c26263a820294/page.htm) |
+| 2026-02-27 | [【学生】2026年春季学期开学本科教务事项通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/24/c26263a820004/page.htm) |
+| 2026-02-27 | [2026年春季学期补考报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/82/d0/c26263a819920/page.htm) |
+| 2026-02-26 | [【学生】南京大学2022、2023、2024级本科生 公共体育课程学习须知 （2026年2月）](https://jw.nju.edu.cn/ggtz/list1.htm/81/86/c26263a819590/page.htm) |
+| 2026-02-26 | [【学生】南京大学 2025 级本科生公共体育课程学习须知  （2026年 2 月）](https://jw.nju.edu.cn/ggtz/list1.htm/81/85/c26263a819589/page.htm) |
+| 2026-02-26 | [2026春季学期《形策》课补（重）修通知](https://jw.nju.edu.cn/ggtz/list1.htm/80/b0/c26263a819376/page.htm) |
+| 2026-01-16 | [本科生院2026年寒假值班安排](https://jw.nju.edu.cn/ggtz/list1.htm/b2/80/c26263a701056/page.htm) |
+| 2026-01-13 | [【2025级本科生】2026春季学期美育通识课选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/4c/14/c26263a805908/page.htm) |
+| 2026-01-12 | [关于本科生成绩单样式调整的通知](https://jw.nju.edu.cn/ggtz/list1.htm/49/ab/c26263a805291/page.htm) |
+| 2026-01-12 | [【教师|学生】2025-2026学年第二学期停调课信息（实时更新）](https://jw.nju.edu.cn/ggtz/list1.htm/62/01/c26263a811521/page.htm) |
+| 2026-01-09 | [关于寒假期间公共教室开放安排的通知](https://jw.nju.edu.cn/ggtz/list1.htm/48/a5/c26263a805029/page.htm) |
+| 2026-01-09 | [【转发】关于2026年“挑战杯”校赛期间 仙林校区教室封闭的公告](https://jw.nju.edu.cn/ggtz/list1.htm/48/9b/c26263a805019/page.htm) |
+| 2026-01-08 | [南京大学2025-2026学年第二学期本科生课程表](https://jw.nju.edu.cn/ggtz/list1.htm/48/3b/c26263a804923/page.htm) |
+| 2026-01-07 | [2026年春季学期本科课程选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/47/83/c26263a804739/page.htm) |
+| 2026-01-05 | [暑期成绩更正（补登）审核结果公示（2026-01-05）](https://jw.nju.edu.cn/ggtz/list1.htm/46/5e/c26263a804446/page.htm) |
+| 2025-12-31 | [南京大学党委第二巡视组结束工作公告](https://jw.nju.edu.cn/ggtz/list1.htm/42/e5/c26263a803557/page.htm) |
+| 2025-12-31 | [南京大学党委第一巡视组结束工作公告](https://jw.nju.edu.cn/ggtz/list1.htm/42/7d/c26263a803453/page.htm) |
+| 2025-12-29 | [南京大学卓越人才培育计划之“未来创造者”项目学生入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/40/e9/c26263a803049/page.htm) |
+| 2025-12-26 | [关于启动南京大学2026届本科毕业论文（设计）工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/3f/59/c26263a802649/page.htm) |
+| 2025-12-23 | [关于开展2025-2026学年第一学期本科课程测评和推荐“我最喜爱的老师”的通知](https://jw.nju.edu.cn/ggtz/list1.htm/3d/f2/c26263a802290/page.htm) |
+| 2025-12-23 | [关于公示2025年江苏省高校“大学生素质教育类课程教学改革研究”专项课题拟推荐名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/3e/12/c26263a802322/page.htm) |
+| 2025-12-22 | [仙林校区通宵自习教室开放通知](https://jw.nju.edu.cn/ggtz/list1.htm/3d/7c/c26263a802172/page.htm) |
+| 2025-12-18 | [关于举办首届全国高校教师教学创新学术研讨会的通知](https://jw.nju.edu.cn/ggtz/list1.htm/3c/23/c26263a801827/page.htm) |
+| 2025-12-17 | [【学生】本科期末教学重要事项通知 （2025-2026学年第一学期）](https://jw.nju.edu.cn/ggtz/list1.htm/3b/e3/c26263a801763/page.htm) |
+| 2025-12-16 | [【转发】关于《毛泽东思想和中国特色社会主义理论体系概论》 《习近平新时代中国特色社会主义思想概论》 实践教学的要求与说明](https://jw.nju.edu.cn/ggtz/list1.htm/3b/5d/c26263a801629/page.htm) |
+| 2025-12-15 | [[转发]关于2026年硕士研究生招生考试期间教室封闭的公告](https://jw.nju.edu.cn/ggtz/list1.htm/3a/c1/c26263a801473/page.htm) |
+| 2025-12-15 | [12月24日（周三下午）普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/3a/d9/c26263a801497/page.htm) |
+| 2025-12-11 | [【老生】全国大学英语四、六级考试考前温馨提示](https://jw.nju.edu.cn/ggtz/list1.htm/3a/11/c26263a801297/page.htm) |
+| 2025-12-11 | [12月13日考试封闭、清理教室的通知](https://jw.nju.edu.cn/ggtz/list1.htm/3a/13/c26263a801299/page.htm) |
+| 2025-12-05 | [【老生】全国大学英语四、六级考试准考证打印通知](https://jw.nju.edu.cn/ggtz/list1.htm/38/07/c26263a800775/page.htm) |
+| 2025-12-03 | [南京大学2025年度本科生基础学科专项奖学金公示名单](https://jw.nju.edu.cn/ggtz/list1.htm/37/15/c26263a800533/page.htm) |
+| 2025-12-02 | [南京大学卓越人才培育计划之“未来技术领军人才”项目（第二期）学生入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/36/a0/c26263a800416/page.htm) |
+| 2025-12-02 | [2025年秋季学期创新训练计划结题考核通知](http://desktop.nju.edu.cn/CXCY/NJU/NoticeBulletin/Detail/e90c0110-1e38-4317-8148-62c728faffcc) |
+| 2025-11-28 | [关于2026年大学生创新训练计划预立项答辩的通知](http://desktop.nju.edu.cn/CXCY/NJU/NoticeBulletin/Detail/e90b1b0f-0726-401f-bac3-caf4eae0ca21) |
+| 2025-11-27 | [【老生】关于12月份全国大学英语四六级考试耳机试音及修理的通知](https://jw.nju.edu.cn/ggtz/list1.htm/35/0a/c26263a800010/page.htm) |
+| 2025-11-25 | [关于2025年度本科教学类双一流、江苏省品牌专业专项 经费统筹工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/33/a1/c26263a799649/page.htm) |
+| 2025-11-25 | [关于2025年度中央高校教育教学改革经费统筹工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/33/9f/c26263a799647/page.htm) |
+| 2025-11-25 | [2025年12月6日、12月24日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/33/cd/c26263a799693/page.htm) |
+| 2025-11-19 | [【2025级新生】大类内专业意向填报通知](https://jw.nju.edu.cn/ggtz/list1.htm/31/32/c26263a799026/page.htm) |
+| 2025-11-13 | [关于省教育厅“人工智能+高等教育”典型应用场景案例拟推荐名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/2e/a8/c26263a798376/page.htm) |
+| 2025-11-05 | [关于王骏院长、施佳欢副院长因公赴香港访问交流的公示](https://jw.nju.edu.cn/ggtz/list1.htm/2d/95/c26263a798101/page.htm) |
+| 2025-11-05 | [【期中考试】2025-2026学年第一学期数学期中考试安排](https://jw.nju.edu.cn/ggtz/list1.htm/2b/2d/c26263a797485/page.htm) |
+| 2025-11-03 | [关于组织2025年秋季学期新开本科课程申报工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/2f/0e/c26263a798478/page.htm) |
+| 2025-10-31 | [关于南京大学党委第一巡视组巡视本科生院的公告](https://jw.nju.edu.cn/ggtz/list1.htm/29/36/c26263a796982/page.htm) |
+| 2025-10-31 | [2025全国大学生计算机系统能力大赛——第2届PolarDB数据库创新设计赛报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/29/3b/c26263a796987/page.htm) |
+| 2025-10-30 | [关于南京大学党委第二巡视组巡视本科生院的公告](https://jw.nju.edu.cn/ggtz/list1.htm/29/0f/c26263a796943/page.htm) |
+| 2025-10-30 | [2025年11月19日、11月26日、11月27日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/28/bd/c26263a796861/page.htm) |
+| 2025-10-29 | [关于“挑战杯“比赛期间逸夫楼教室临时封闭的公告](https://jw.nju.edu.cn/ggtz/list1.htm/28/63/c26263a796771/page.htm) |
+| 2025-10-28 | [关于组织2025年秋季学期本科生成果填报的通知](https://jw.nju.edu.cn/ggtz/list1.htm/28/36/c26263a796726/page.htm) |
+| 2025-10-28 | [关于公示2025年江苏省高校“高质量公共课教学改革研究”专项课题拟推荐名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/27/ec/c26263a796652/page.htm) |
+| 2025-10-24 | [南京大学卓越人才培育计划之 “未来技术领军人才”项目（第二期）申报通知](https://jw.nju.edu.cn/ggtz/list1.htm/26/a6/c26263a796326/page.htm) |
+| 2025-10-22 | [2024级计算机学院跨学院专业准入课程调整的通知](https://jw.nju.edu.cn/ggtz/list1.htm/24/04/c26263a795652/page.htm) |
+| 2025-10-15 | [2025年11月南京大学普通全日制本科生学位英语考试通知](https://jw.nju.edu.cn/ggtz/list1.htm/1e/4e/c26263a794190/page.htm) |
+| 2025-10-14 | [关于开展2025级普通全日制本科生学信网学籍信息自查的通知](https://jw.nju.edu.cn/ggtz/list1.htm/1d/ab/c26263a794027/page.htm) |
+| 2025-10-14 | [2025年11月5日、11月15日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/1d/7e/c26263a793982/page.htm) |
+| 2025-10-13 | [关于全面提供本科课程作业查重服务的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a4/b1/c26263a500913/page.htm) |
+| 2025-10-10 | [部分课程增加名额的通知（六）](https://jw.nju.edu.cn/ggtz/list1.htm/1a/38/c26263a793144/page.htm) |
+| 2025-10-10 | [【学生】20251学期重修课程的缴费通知](https://jw.nju.edu.cn/ggtz/list1.htm/1a/36/c26263a793142/page.htm) |
+| 2025-09-30 | [南京大学2026年大学生创新训练计划项目申报通知](https://jw.nju.edu.cn/ggtz/list1.htm/15/c4/c26263a792004/page.htm) |
+| 2025-09-30 | [ 【转发】国庆、中秋节期间鼓楼、仙林、苏州各校区公共教室开放公告](https://jw.nju.edu.cn/ggtz/list1.htm/14/23/c26263a791587/page.htm) |
+| 2025-09-28 | [【补采】2026届普通全日制本科毕业生图像采集秋季补采通知](https://jw.nju.edu.cn/ggtz/list1.htm/14/1e/c26263a791582/page.htm) |
+| 2025-09-24 | [成绩更正审核结果公示（2025-09-24）](https://jw.nju.edu.cn/ggtz/list1.htm/11/58/c26263a790872/page.htm) |
+| 2025-09-24 | [2025年10月22日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/10/fb/c26263a790779/page.htm) |
+| 2025-09-23 | [部分课程增加名额的通知（五）](https://jw.nju.edu.cn/ggtz/list1.htm/10/4b/c26263a790603/page.htm) |
+| 2025-09-19 | [关于举办2025年“领航杯”江苏省大学生数字素养与技能大赛的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0d/71/c26263a789873/page.htm) |
+| 2025-09-17 | [部分课程增加名额的通知（四）](https://jw.nju.edu.cn/ggtz/list1.htm/0b/ab/c26263a789419/page.htm) |
+| 2025-09-17 | [2025年9月24日普通话水平测试网络报名通知及本学期普通话水平测试计划安排](https://jw.nju.edu.cn/ggtz/list1.htm/0b/c9/c26263a789449/page.htm) |
+| 2025-09-16 | [关于开展2025年江苏省高校美育精品课程培育和高校美育大讲堂优课推荐工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0b/d7/c26263a789463/page.htm) |
+| 2025-09-16 | [【公开课观摩】关于开展2025年“尊师重教月”系列公开课观摩活动的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0b/16/c26263a789270/page.htm) |
+| 2025-09-16 | [【公开课观摩】关于公布2025年“尊师重教月”系列公开观摩课程名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0b/16/c26263a789270/page.htm) |
+| 2025-09-15 | [关于公示2025年江苏省高校“人工智能通识教育教学改革研究”专项课题拟推荐名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0a/c3/c26263a789187/page.htm) |
+| 2025-09-15 | [【老生】2025年12月四、六级考试报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/0a/aa/c26263a789162/page.htm) |
+| 2025-09-15 | [25秋导读班助教课程群](https://jw.nju.edu.cn/ggtz/list1.htm/0a/73/c26263a789107/page.htm) |
+| 2025-09-12 | [成绩更正审核结果公示（2025-09-12）](https://jw.nju.edu.cn/ggtz/list1.htm/08/9f/c26263a788639/page.htm) |
+| 2025-09-12 | [南京大学2025年度推免生名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/09/0b/c26263a788747/page.htm) |
+| 2025-09-11 | [申报指南 | 中国高校产学研创新基金-科大讯飞高校创新研究专项（三期）](https://jw.nju.edu.cn/ggtz/list1.htm/07/9b/c26263a788379/page.htm) |
+| 2025-09-11 | [2025年华五“精准智能化学”微专业报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/08/07/c26263a788487/page.htm) |
+| 2025-09-10 | [部分课程增加名额的通知（三）](https://jw.nju.edu.cn/ggtz/list1.htm/06/ac/c26263a788140/page.htm) |
+| 2025-09-08 | [【老生】2025年下半年四六级考试相关通知汇总](https://jw.nju.edu.cn/ggtz/list1.htm/05/66/c26263a787814/page.htm) |
+| 2025-09-08 | [【老生】2025年12月全国大学英语四、六级考试报名前信息核对通知](https://jw.nju.edu.cn/ggtz/list1.htm/05/65/c26263a787813/page.htm) |
+| 2025-09-05 | [关于2025年度卓越教学奖等本科教育教学奖教金拟获奖人选的公示](https://jw.nju.edu.cn/ggtz/list1.htm/04/1b/c26263a787483/page.htm) |
+| 2025-09-03 | [成绩更正审核结果公示（2025-09-03）](https://jw.nju.edu.cn/ggtz/list1.htm/02/6d/c26263a787053/page.htm) |
+| 2025-09-02 | [部分课程增加名额的通知（二）](https://jw.nju.edu.cn/ggtz/list1.htm/01/bb/c26263a786875/page.htm) |
+| 2025-08-30 | [南京大学2025-2026学年第一学期本科生课程表（一年级）](https://jw.nju.edu.cn/ggtz/list1.htm/ff/cc/c26263a786380/page.htm) |
+| 2025-08-30 | [关于第三届江苏大学生读书文化节书评大赛、云诵读校赛获奖作品的公示](https://jw.nju.edu.cn/ggtz/list1.htm/ff/a4/c26263a786340/page.htm) |
+| 2025-08-29 | [【2025级新生】大类培养学科分流、专业准入实施方案一览表（2025修订版）](https://jw.nju.edu.cn/ggtz/list1.htm/ff/a3/c26263a786339/page.htm) |
+| 2025-08-29 | [【2025级新生】劳动教育学习导引+慕课选修说明](https://jw.nju.edu.cn/ggtz/list1.htm/ff/61/c26263a786273/page.htm) |
+| 2025-08-28 | [第一届江苏省大学生人工智能艺术创作大赛](https://jw.nju.edu.cn/ggtz/list1.htm/fe/9a/c26263a786074/page.htm) |
+| 2025-08-28 | [【新增体育课调整】部分课程增加名额的通知](https://jw.nju.edu.cn/ggtz/list1.htm/fe/82/c26263a786050/page.htm) |
+| 2025-08-28 | [2025-2026学年第一学期公共课补缓考安排](https://jw.nju.edu.cn/ggtz/list1.htm/5b/cd/c26263a744397/page.htm) |
+| 2025-08-27 | [【2025级新生】美育通识课选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/fe/1b/c26263a785947/page.htm) |
+| 2025-08-26 | [【2025级新生】教务安排汇总](https://jw.nju.edu.cn/ggtz/list1.htm/fd/82/c26263a785794/page.htm) |
+| 2025-08-26 | [【2025级新生】“科学之光”系列课程选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/fd/76/c26263a785782/page.htm) |
+| 2025-08-26 | [【2025级新生】“悦读经典计划”课程修读说明](https://jw.nju.edu.cn/ggtz/list1.htm/fd/64/c26263a785764/page.htm) |
+| 2025-08-25 | [新开课程及部分课程增加名额的通知](https://jw.nju.edu.cn/ggtz/list1.htm/fc/9e/c26263a785566/page.htm) |
+| 2025-08-25 | [关于开展2025年省学校美育科研规划课题申报推荐工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/fc/91/c26263a785553/page.htm) |
+| 2025-08-25 | [关于启动2025年秋季学期本科生劳动教育实践工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/fb/c1/c26263a785345/page.htm) |
+| 2025-08-25 | [【转发】网络通识课《认识地球》和《自然灾害与人》开课通知](https://jw.nju.edu.cn/ggtz/list1.htm/fb/e9/c26263a785385/page.htm) |
+| 2025-08-25 | [【教师|学生】2025-2026学年第一学期停调课信息（实时更新）](https://jw.nju.edu.cn/ggtz/list1.htm/58/ce/c26263a743630/page.htm) |
+| 2025-08-25 | [【增开课程】关于2025-2026学年第一学期南京大学DIY研读研究课程“移民社会学”的报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/fb/d9/c26263a785369/page.htm) |
+| 2025-08-25 | [【2025级新生】学籍电子照片采集通知](https://jw.nju.edu.cn/ggtz/list1.htm/fb/c3/c26263a785347/page.htm) |
+| 2025-08-25 | [【2025级新生】学籍电子注册通知](https://jw.nju.edu.cn/ggtz/list1.htm/fb/bc/c26263a785340/page.htm) |
+| 2025-08-22 | [关于2025-2026学年第一学期南京大学DIY研读研究课程报名的通知](https://jw.nju.edu.cn/ggtz/list1.htm/fa/3d/c26263a784957/page.htm) |
+| 2025-08-22 | [【学生】南京大学2022、2023、2024级本科生 公共体育课程学习须知 （2025年8月）](https://jw.nju.edu.cn/ggtz/list1.htm/fa/23/c26263a784931/page.htm) |
+| 2025-08-22 | [【学生】2025年秋季学期补考报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/fa/24/c26263a784932/page.htm) |
+| 2025-08-22 | [【学生】2025年秋季学期本科教务事项通知  （2022、2023、2024级学生）](https://jw.nju.edu.cn/ggtz/list1.htm/fa/27/c26263a784935/page.htm) |
+| 2025-08-22 | [【学生】2022和2023级学生《形势与政策》课程补（重）修通知](https://jw.nju.edu.cn/ggtz/list1.htm/fa/08/c26263a784904/page.htm) |
+| 2025-08-22 | [2025年南京大学“本科实验教学质量提升计划”入选项目名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/fa/45/c26263a784965/page.htm) |
+| 2025-08-20 | [2025年南京大学“智创无穹”通识课立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/f9/09/c26263a784649/page.htm) |
+| 2025-08-19 | [2025年度南京大学优秀本科毕业论文（设计） 评选结果公示](https://jw.nju.edu.cn/ggtz/list1.htm/f8/7a/c26263a784506/page.htm) |
+| 2025-08-16 | [关于组织申报“中华文化优秀课程多语种数字化全球传播计划”的通知](https://jw.nju.edu.cn/ggtz/list1.htm/f7/98/c26263a784280/page.htm) |
+| 2025-08-05 | [【2025级新生】南京大学关于开展2025级本科生二次选拔工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/e0/1d/c26263a778269/page.htm) |
+| 2025-08-02 | [关于开展2025年江苏省高校“高质量公共课教学改革研究”专项课题立项建设申报工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/de/e6/c26263a777958/page.htm) |
+| 2025-08-02 | [关于开展2025年江苏省高校“人工智能通识教育教学改革研究”专项课题推荐申报工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/de/e5/c26263a777957/page.htm) |
+| 2025-07-04 | [成绩更正审核结果公示（2025-07-04）](https://jw.nju.edu.cn/ggtz/list1.htm/bb/fb/c26263a769019/page.htm) |
+| 2025-06-27 | [本科生院2025年暑假值班安排](https://jw.nju.edu.cn/ggtz/list1.htm/b2/80/c26263a701056/page.htm) |
+| 2025-06-27 | [成绩更正审核结果公示（2025-06-27）](https://jw.nju.edu.cn/ggtz/list1.htm/b6/63/c26263a767587/page.htm) |
+| 2025-06-27 | [关于举办第三届江苏大学生读书文化节相关推荐活动南京大学校内评选的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b6/08/c26263a767496/page.htm) |
+| 2025-06-26 | [成绩更正审核结果公示（2025-06-26）](https://jw.nju.edu.cn/ggtz/list1.htm/b5/4e/c26263a767310/page.htm) |
+| 2025-06-26 | [关于拟推荐申报2025年国家民委高等教育教学改革研究项目的公示](https://jw.nju.edu.cn/ggtz/list1.htm/b5/b7/c26263a767415/page.htm) |
+| 2025-06-24 | [关于公布2025年数学建模竞赛培训名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b3/e0/c26263a766944/page.htm) |
+| 2025-06-24 | [【学生】20242学期期末缓考申请通过名单公示（第三批）](https://jw.nju.edu.cn/ggtz/list1.htm/b4/1c/c26263a767004/page.htm) |
+| 2025-06-23 | [成绩更正审核结果公示（2025-06-23）](https://jw.nju.edu.cn/ggtz/list1.htm/b3/9b/c26263a766875/page.htm) |
+| 2025-06-23 | [关于公布2025年华五“AI+X”微专业南京大学学生入选名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b3/c9/c26263a766921/page.htm) |
+| 2025-06-23 | [2025年江苏省高等教育教改研究课题校内评审结果公示](https://jw.nju.edu.cn/ggtz/list1.htm/b3/a3/c26263a766883/page.htm) |
+| 2025-06-22 | [关于转发《教育部高等教育司关于开展人工智能综合能力提升培训工作的通知》的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b3/0f/c26263a766735/page.htm) |
+| 2025-06-20 | [关于暑假期间公共教室开放情况的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b1/b2/c26263a766386/page.htm) |
+| 2025-06-19 | [关于评选2025年度南京大学优秀本科毕业论文（设计）的通知](https://jw.nju.edu.cn/ggtz/list1.htm/b0/fc/c26263a766204/page.htm) |
+| 2025-06-18 | [【学生】20242学期期末缓考申请通过名单公示（第二批）](https://jw.nju.edu.cn/ggtz/list1.htm/b0/6a/c26263a766058/page.htm) |
+| 2025-06-16 | [成绩更正审核结果公示（2025-06-16）](https://jw.nju.edu.cn/ggtz/list1.htm/ae/62/c26263a765538/page.htm) |
+| 2025-06-16 | [南京大学2025-2026学年第一学期本科生课程表（高年级）](https://jw.nju.edu.cn/ggtz/list1.htm/ac/f2/c26263a765170/page.htm) |
+| 2025-06-16 | [关于启动南京大学2025年华五“AI+X”微专业报名的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ae/77/c26263a765559/page.htm) |
+| 2025-06-13 | [关于公示2025年度南京大学通识类教改课程立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/ac/f1/c26263a765169/page.htm) |
+| 2025-06-11 | [关于2025年江苏省教学名师拟推荐人选的公示](https://jw.nju.edu.cn/ggtz/list1.htm/ab/73/c26263a764787/page.htm) |
+| 2025-06-10 | [技术科学实验班暑期课程增加名额的通知](https://jw.nju.edu.cn/ggtz/list1.htm/aa/71/c26263a764529/page.htm) |
+| 2025-06-10 | [6月14日考试封闭、清理教室的通知](https://jw.nju.edu.cn/ggtz/list1.htm/aa/64/c26263a764516/page.htm) |
+| 2025-06-09 | [【学生】20242学期期末缓考申请通过名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a9/3d/c26263a764221/page.htm) |
+| 2025-06-06 | [【学生】全国大学英语四、六级考试准考证打印通知](https://jw.nju.edu.cn/ggtz/list1.htm/a7/63/c26263a763747/page.htm) |
+| 2025-06-05 | [【学生】2025年暑期学校和秋季学期本科课程选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/a7/10/c26263a763664/page.htm) |
+| 2025-06-04 | [第一届南京大学“歆·恺杯”数学竞赛获奖名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a6/24/c26263a763428/page.htm) |
+| 2025-06-03 | [关于开展2025 年本科生创新创业学分认定工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a5/8f/c26263a763279/page.htm) |
+| 2025-06-03 | [2025届本科生毕业论文（设计）上传和装订指南](https://jw.nju.edu.cn/ggtz/list1.htm/87/ce/c26263a690126/page.htm) |
+| 2025-06-03 | [2025届普通全日制本科毕业证书、学士学位证书审核发放流程](https://jw.nju.edu.cn/ggtz/list1.htm/a5/78/c26263a763256/page.htm) |
+| 2025-05-30 | [2025年度南京大学创新创业课程立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a2/e7/c26263a762599/page.htm) |
+| 2025-05-29 | [南京大学2025年暑期学校新开课程立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/a2/01/c26263a762369/page.htm) |
+| 2025-05-29 | [关于组织2025年数学建模竞赛培训的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a1/c8/c26263a762312/page.htm) |
+| 2025-05-28 | [南京大学“主题式交叉研修项目”2025年春季学期招生通知](https://jw.nju.edu.cn/ggtz/list1.htm/a1/10/c26263a762128/page.htm) |
+| 2025-05-28 | [南京大学2025届本科毕业生教学质量调查通知](https://jw.nju.edu.cn/ggtz/list1.htm/a1/0e/c26263a762126/page.htm) |
+| 2025-05-28 | [关于公示2025年度南京大学本科生“奔赴计划”研修项目立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a1/31/c26263a762161/page.htm) |
+| 2025-05-28 | [关于公布2025年度南京大学本科生“奔赴计划”研修项目立项名单的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a1/31/c26263a762161/page.htm) |
+| 2025-05-27 | [【学生】关于6月份全国大学英语四六级考试耳机试音及修理的通知](https://jw.nju.edu.cn/ggtz/list1.htm/a0/20/c26263a761888/page.htm) |
+| 2025-05-26 | [关于开展2024-2025学年第二学期本科课程测评和推荐“我最喜爱的老师”的通知](https://jw.nju.edu.cn/ggtz/list1.htm/23/99/c26263a730009/page.htm) |
+| 2025-05-26 | [【学生】本科期末教学重要事项通知 （2025-2026学年第一学期）](https://jw.nju.edu.cn/ggtz/list1.htm/9f/37/c26263a761655/page.htm) |
+| 2025-05-26 | [【学生】本科期末教学重要事项通知 （2024-2025学年第二学期）](https://jw.nju.edu.cn/ggtz/list1.htm/9f/37/c26263a761655/page.htm) |
+| 2025-05-25 | [报名通知 | 南京大学“敦煌文化”新生主题式通识科考与科研训练](https://mp.weixin.qq.com/s/zUFr7e9bq1zXwxNLOCI-RA) |
+| 2025-05-22 | [【C9交换】西安交通大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/9c/2e/c26263a760878/page.htm) |
+| 2025-05-22 | [【C9交换】北京大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/9c/2c/c26263a760876/page.htm) |
+| 2025-05-22 | [【C9交换】中国科技大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/9c/2d/c26263a760877/page.htm) |
+| 2025-05-21 | [关于组织申报江苏省高等教育学会2024年度高等教育科学研究成果奖的通知](https://jw.nju.edu.cn/ggtz/list1.htm/9b/63/c26263a760675/page.htm) |
+| 2025-05-20 | [成绩更正审核结果公示（2025-05-20）](https://jw.nju.edu.cn/ggtz/list1.htm/9a/c6/c26263a760518/page.htm) |
+| 2025-05-20 | [关于加强2025年本科毕业论文（设计）管理工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/99/f7/c26263a760311/page.htm) |
+| 2025-05-20 | [仙林校区通宵自习教室开放通知](https://jw.nju.edu.cn/ggtz/list1.htm/a0/85/c26263a761989/page.htm) |
+| 2025-05-19 | [2025年南京大学“小蓝鲸劳动月”劳模大讲堂暨大国工匠进校园活动通知](https://jw.nju.edu.cn/ggtz/list1.htm/99/90/c26263a760208/page.htm) |
+| 2025-05-16 | [2025年5月30日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/97/f5/c26263a759797/page.htm) |
+| 2025-05-15 | [【C9交换】2025年北京大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/97/01/c26263a759553/page.htm) |
+| 2025-05-14 | [【C9交换】哈尔滨工业大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/96/6d/c26263a759405/page.htm) |
+| 2025-05-14 | [【C9交换】2025年西安交通大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/96/6b/c26263a759403/page.htm) |
+| 2025-05-14 | [【C9交换】2025年中国科技大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/96/6c/c26263a759404/page.htm) |
+| 2025-05-13 | [关于组织2025年度暑期学校教学活动的通知](https://jw.nju.edu.cn/ggtz/list1.htm/94/f7/c26263a759031/page.htm) |
+| 2025-05-13 | [2025年春季学期优质课程公开观摩信息（实时更新）](https://jw.nju.edu.cn/ggtz/list1.htm/95/3c/c26263a759100/page.htm) |
+| 2025-05-09 | [中芬赫尔辛基大气与地球系统科考与科研训练项目报名通知](https://mp.weixin.qq.com/s/X_BwIIQil3Qe8rpToEVk0Q) |
+| 2025-05-08 | [南京大学“天池杯”AI创新大赛第二期专题训练营](https://jw.nju.edu.cn/ggtz/list1.htm/92/55/c26263a758357/page.htm) |
+| 2025-05-08 | [【C9交换】2025年哈尔滨工业大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/92/3c/c26263a758332/page.htm) |
+| 2025-05-07 | [2025年5月16日、5月19日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/91/11/c26263a758033/page.htm) |
+| 2025-05-06 | [2025年南京大学“小蓝鲸劳动月”系列主题基础劳动实践活动安排](https://jw.nju.edu.cn/ggtz/list1.htm/90/64/c26263a757860/page.htm) |
+| 2025-04-30 | [【转发】关于《毛泽东思想和中国特色社会主义理论体系概论》  《习近平新时代中国特色社会主义思想概论》 实践教学的要求与说明](https://jw.nju.edu.cn/ggtz/list1.htm/8d/a5/c26263a757157/page.htm) |
+| 2025-04-28 | [2025年“海丝国家马来西亚生态环境与气候变化科考与科研训练项目”招募通知](https://mp.weixin.qq.com/s/_d7Xv57opIF9nL8XzXLcJw) |
+| 2025-04-27 | [关于开展2025年南京大学“小蓝鲸劳动月”系列活动的通知](https://jw.nju.edu.cn/ggtz/list1.htm/8b/7c/c26263a756604/page.htm) |
+| 2025-04-27 | [ 【转发】“五一”劳动节期间鼓楼、仙林、苏州  各校区教室开放公告](https://jw.nju.edu.cn/ggtz/list1.htm/8b/83/c26263a756611/page.htm) |
+| 2025-04-25 | [南京大学“天池杯”AI创新大赛第一期专题训练营](https://jw.nju.edu.cn/ggtz/list1.htm/8a/1a/c26263a756250/page.htm) |
+| 2025-04-24 | [关于本学期第二次悦读经典计划测试的通知](https://jw.nju.edu.cn/ggtz/list1.htm/89/cc/c26263a756172/page.htm) |
+| 2025-04-24 | [【C9交换】复旦大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/89/ca/c26263a756170/page.htm) |
+| 2025-04-24 | [2025年学科、专业准入志愿填报通知](https://jw.nju.edu.cn/ggtz/list1.htm/89/34/c26263a756020/page.htm) |
+| 2025-04-22 | [【补采】2026届普通全日制本科毕业生图像采集春季学期补采通知](https://jw.nju.edu.cn/ggtz/list1.htm/88/0f/c26263a755727/page.htm) |
+| 2025-04-21 | [【C9交换】2025年复旦大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/87/99/c26263a755609/page.htm) |
+| 2025-04-17 | [关于启动南京大学“天池杯”AI创新大赛的通知](https://jw.nju.edu.cn/ggtz/list1.htm/85/92/c26263a755090/page.htm) |
+| 2025-04-17 | [2025年南京大学创新训练项目中期考核通知](http://desktop.nju.edu.cn/CXCY/NJU/NoticeBulletin/Detail/e904110a-0a1d-487f-84f0-c831e0da3dd5) |
+| 2025-04-17 | [2024-2025学年第二学期数学期中考试安排](https://jw.nju.edu.cn/ggtz/list1.htm/85/59/c26263a755033/page.htm) |
+| 2025-04-15 | [关于开展2025年度本科生学科竞赛等级认定和经费预算申报工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/cd/c26263a754637/page.htm) |
+| 2025-04-15 | [关于开展2025届本科毕业论文（设计）中期检查工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/e9/c26263a754665/page.htm) |
+| 2025-04-15 | [关于开展2024届本科毕业论文（设计）中期检查工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/e9/c26263a754665/page.htm) |
+| 2025-04-15 | [2025年春季学期创新训练计划结题考核通知](http://desktop.nju.edu.cn/CXCY/NJU/NoticeBulletin/Detail/e9040f0e-1d11-4a0d-ba55-867b2417dce0) |
+| 2025-04-15 | [2025年“文化交融背景下中国品牌境外传播效能”全球科考与科研训练项目选拔报名通知](https://mp.weixin.qq.com/s/uKVU7UofEcPFuRU2cwQHqQ) |
+| 2025-04-15 | [2025年5月南京大学普通全日制本科生学位英语考试通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/d2/c26263a754642/page.htm) |
+| 2025-04-15 | [2025年4月28日、5月9日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/83/a4/c26263a754596/page.htm) |
+| 2025-04-13 | [南京大学2025年中英集成电路与先进制造本科生科考与科研训练项目招生简章](https://jw.nju.edu.cn/ggtz/list1.htm/82/3f/c26263a754239/page.htm) |
+| 2025-04-11 | [南京大学地球科学与工程学院2025年度全球科考报名通知](https://es.nju.edu.cn/7f/4f/c4296a753487/pagem.htm) |
+| 2025-04-11 | [关于做好2026届普通全日制本科毕业生图像信息采集工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/80/c3/c26263a753859/page.htm) |
+| 2025-04-09 | [“古典文明的中西对话与现代互鉴”全球科考与科研训练项目成员招募通知](https://mp.weixin.qq.com/s/HYTjnHiaLRaxnY9Isxebnw) |
+| 2025-04-09 | [2025年度“中法关系与全球文化治理科考与科研训练项目”选拔报名通知](https://sis.nju.edu.cn/7f/99/c46084a753561/pagem.htm) |
+| 2025-04-08 | [2025年度“中北欧碳中和科考与科研训练” 本科生全球科考项目选拔报名通知](https://mp.weixin.qq.com/s/XdXWZOuVBkjqd5VmUARtog) |
+| 2025-04-08 | [2025年度"追光之旅——基于全球光学望远镜BOOTES对伽马射线暴的观测与研究"全球科考项目选拔报名通知](https://mp.weixin.qq.com/s/khe9-pCg9Wm2CeiDglw9KA) |
+| 2025-04-07 | [【分流】南京大学2025年普通全日制本科生学科、专业准入工作通知](https://jw.nju.edu.cn/ggtz/list1.htm/7d/b7/c26263a753079/page.htm) |
+| 2025-04-03 | [关于2024年度“南京大学东吴证券奖教金”“南京大学绿叶奖教金” 拟获奖人员的公示](https://jw.nju.edu.cn/ggtz/list1.htm/7c/1e/c26263a752670/page.htm) |
+| 2025-04-03 | [2025中荷脑科学与生态学综合科考与科研训练项目选拔报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/7c/06/c26263a752646/page.htm) |
+| 2025-04-02 | [成绩更正审核结果公示（2025-04-02）](https://jw.nju.edu.cn/ggtz/list1.htm/7b/3b/c26263a752443/page.htm) |
+| 2025-04-02 | [【C9交换】上海交通大学2025年暑期学校入选名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/7a/e0/c26263a752352/page.htm) |
+| 2025-04-01 | [【本科生竞赛】人工智能“趣”挑战，开启知识“新”旅程！](https://jw.nju.edu.cn/ggtz/list1.htm/79/dd/c26263a752093/page.htm) |
+| 2025-03-31 | [选拔报名通知 | 2025年本科生全球科考与科研训练项目“跨文化视角下‘世界记忆’与‘和平形象’构建”](https://mp.weixin.qq.com/s/kk9KibgvtoBl4-_y3PHf-w) |
+| 2025-03-29 | [大数据产业发展调研实践——南京大学本科生全球科考项目成员招募通知](https://mp.weixin.qq.com/s/_8Yg7EDvhRZ6mjHHWlAtkg) |
+| 2025-03-29 | [“案牍存赤心——从援疆故事读懂援疆工作” ——南京大学本科生全球科考项目成员招募通知](https://mp.weixin.qq.com/s/cK-DK31-giCiAAj02M_7mQ) |
+| 2025-03-27 | [本学期悦读测试通知](https://jw.nju.edu.cn/ggtz/list1.htm/75/d4/c26263a751060/page.htm) |
+| 2025-03-27 | [关于启动2025年学科、专业介绍工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/74/ff/c26263a750847/page.htm) |
+| 2025-03-27 | [关于举办第一届南京大学“歆·恺杯”数学竞赛的通知](https://jw.nju.edu.cn/ggtz/list1.htm/75/ed/c26263a751085/page.htm) |
+| 2025-03-25 | [第五届“外教社·词达人杯”全国大学生英语词汇能力大赛报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/74/2c/c26263a750636/page.htm) |
+| 2025-03-25 | [【C9交换】2025年上海交通大学暑期学校报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/73/d1/c26263a750545/page.htm) |
+| 2025-03-25 | [2025年4月11日、4月14日普通话水平测试网络报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/73/e0/c26263a750560/page.htm) |
+| 2025-03-21 | [成绩更正审核结果公示（2025-03-21）](https://jw.nju.edu.cn/ggtz/list1.htm/71/6d/c26263a749933/page.htm) |
+| 2025-03-20 | [2025年南京大学本科生全球科考与科研训练项目拟立项名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/70/53/c26263a749651/page.htm) |
+| 2025-03-19 | [南京大学2023-2024年度优秀本科教务员评选结果公示](https://jw.nju.edu.cn/ggtz/list1.htm/6f/b3/c26263a749491/page.htm) |
+| 2025-03-19 | [中美文化研究中心开放日等你来](https://jw.nju.edu.cn/ggtz/list1.htm/6f/7a/c26263a749434/page.htm) |
+| 2025-03-19 | [2025年春季学期本科教改课程研究生助教名单公示](https://jw.nju.edu.cn/ggtz/list1.htm/6f/a8/c26263a749480/page.htm) |
+| 2025-03-18 | [【学生】2025年6月四、六级考试报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/6e/bf/c26263a749247/page.htm) |
+| 2025-03-14 | [关于开展 “一二课堂融通”课程学分认定工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/6c/06/c26263a748550/page.htm) |
+| 2025-03-12 | [2025年3月28-29日普通话水平测试网络报名通知及本学期考试计划安排](https://jw.nju.edu.cn/ggtz/list1.htm/6a/63/c26263a748131/page.htm) |
+| 2025-03-10 | [【学生】2025年上半年四六级考试相关通知汇总](https://jw.nju.edu.cn/ggtz/list1.htm/68/30/c26263a747568/page.htm) |
+| 2025-03-10 | [【学生】2025年6月全国大学英语四、六级考试报名前信息核对通知](https://jw.nju.edu.cn/ggtz/list1.htm/68/2f/c26263a747567/page.htm) |
+| 2025-03-07 | [【学生】20242学期重修课程的缴费通知](https://jw.nju.edu.cn/ggtz/list1.htm/65/3b/c26263a746811/page.htm) |
+| 2025-03-05 | [部分课程增加名额的通知（四）](https://jw.nju.edu.cn/ggtz/list1.htm/63/b9/c26263a746425/page.htm) |
+| 2025-03-05 | [成绩更正审核结果公示（2025-03-05）](https://jw.nju.edu.cn/ggtz/list1.htm/64/63/c26263a746595/page.htm) |
+| 2025-03-05 | [2025年“高教社杯”大学生“用外语讲好中国故事”优秀短视频作品征集活动](https://jw.nju.edu.cn/ggtz/list1.htm/64/47/c26263a746567/page.htm) |
+| 2025-03-04 | [2025年春季学期国际化科研素养实训课程选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/62/d7/c26263a746199/page.htm) |
+| 2025-02-27 | [2025年春季学期“大美汉字”通识课选课通知](https://jw.nju.edu.cn/ggtz/list1.htm/5f/fe/c26263a745470/page.htm) |
+| 2025-02-26 | [部分课程增加名额的通知（三）](https://jw.nju.edu.cn/ggtz/list1.htm/5e/f1/c26263a745201/page.htm) |
+| 2025-02-26 | [南京大学2025年“名师邀约计划”拟入选项目公示](https://jw.nju.edu.cn/ggtz/list1.htm/5e/d7/c26263a745175/page.htm) |
+| 2025-02-25 | [【转发】网络通识课《认识地球》和《自然灾害与人》开课通知](https://jw.nju.edu.cn/ggtz/list1.htm/5e/69/c26263a745065/page.htm) |
+| 2025-02-24 | [部分课程增加名额的通知（二）](https://jw.nju.edu.cn/ggtz/list1.htm/5d/74/c26263a744820/page.htm) |
+| 2025-02-24 | [25春悦读导读班课程群及助教信息](https://jw.nju.edu.cn/ggtz/list1.htm/5d/4f/c26263a744783/page.htm) |
+| 2025-02-21 | [2024-2025学年第二学期公共课补缓考安排](https://jw.nju.edu.cn/ggtz/list1.htm/5b/cd/c26263a744397/page.htm) |
+| 2025-02-20 | [2025年春季学期人工智能系列课程简介（一）](https://jw.nju.edu.cn/ggtz/list1.htm/5b/54/c26263a744276/page.htm) |
+| 2025-02-19 | [部分课程增加名额的通知（含通识课）](https://jw.nju.edu.cn/ggtz/list1.htm/5a/62/c26263a744034/page.htm) |
+| 2025-02-19 | [【毕业生】关于2025届本科毕业生专业准出申请的通知](https://jw.nju.edu.cn/ggtz/list1.htm/5a/9b/c26263a744091/page.htm) |
+| 2025-02-18 | [部分思政选择性必修课增加名额的通知](https://jw.nju.edu.cn/ggtz/list1.htm/59/84/c26263a743812/page.htm) |
+| 2025-02-17 | [关于教学立方平台资料的备份提醒](https://jw.nju.edu.cn/ggtz/list1.htm/58/b9/c26263a743609/page.htm) |
+| 2025-02-17 | [关于启动2025年春季学期本科生劳动教育实践工作的通知](https://jw.nju.edu.cn/ggtz/list1.htm/58/ac/c26263a743596/page.htm) |
+| 2025-02-17 | [关于2024-2025学年第二学期南京大学DIY研读研究课程报名的通知](https://jw.nju.edu.cn/ggtz/list1.htm/58/b4/c26263a743604/page.htm) |
+| 2025-02-17 | [【21-24级劳育慕课重修同学关注】2025年春季学期《大学生劳动教育》慕课选修说明](https://jw.nju.edu.cn/ggtz/list1.htm/58/95/c26263a743573/page.htm) |
+| 2025-02-14 | [【学生】2025年春季学期补考报名通知](https://jw.nju.edu.cn/ggtz/list1.htm/56/58/c26263a743000/page.htm) |
+| 2025-02-14 | [【学生】2025年春季学期本科教务事项通知](https://jw.nju.edu.cn/ggtz/list1.htm/56/ad/c26263a743085/page.htm) |
+| 2025-02-14 | [【2024级学生】2024-2025-2学期“大学生国家安全教育”开课方案](https://jw.nju.edu.cn/ggtz/list1.htm/5a/99/c26263a744089/page.htm) |
+| 2025-02-14 | [ 【学生】南京大学公共体育课程学习须知（2025年2月）](https://jw.nju.edu.cn/ggtz/list1.htm/56/54/c26263a742996/page.htm) |
+| 2025-02-13 | [【学生】2021和2022级学生《形势与政策》课程补（重）修通知](https://jw.nju.edu.cn/ggtz/list1.htm/56/1a/c26263a742938/page.htm) |
+| 2024-11-11 | [关于开展2024级普通全日制本科生学信网学籍信息自查的通知](https://jw.nju.edu.cn/ggtz/list1.htm/0a/cd/c26263a723661/page.htm) |
+
+</details>
+
+---
+
+*由 GitHub Actions 自动更新*

@@ -1,0 +1,45 @@
+name: Daily Crawl
+
+on:
+  schedule:
+    # UTC 1:00 = 北京时间 9:00
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run crawler
+        run: python src/main.py
+
+      - name: Send email notification
+        if: hashFiles('email_content.html') != ''
+        uses: dawidd6/action-send-mail@v4
+        with:
+          server_address: ${{ secrets.SMTP_HOST }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USER }}
+          password: ${{ secrets.SMTP_PASS }}
+          subject: 📬 南京大学教务处通知提醒
+          to: ${{ secrets.MAIL_TO }}
+          from: ${{ secrets.SMTP_USER }}
+          html_body: file://email_content.html
+
+      - name: Commit updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md department.csv email_content.html 2>/dev/null
+          git commit -m "daily update $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push

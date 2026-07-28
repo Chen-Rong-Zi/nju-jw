@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+email_content.html
+.playwright-mcp/
