@@ -161,7 +161,7 @@ def fetch_via_api() -> Optional[list[dict]]:
         items = []
         for art in result.get('data', []):
             tags_str = art.get('f1', '').strip()
-            tags = [t.strip() for t in tags_str.split('，') if t.strip()] if tags_str else []
+            tags = [t.strip() for t in tags_str.split(',') if t.strip()] if tags_str else []
             url = art.get('url', '')
             if url.startswith('http://'):
                 url = 'https://' + url[7:]
